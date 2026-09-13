@@ -14,6 +14,9 @@ This platform follows a microservices architecture with the following core servi
 - **Progression Service** - XP system and leaderboards (Go)
 - **AWS SNS Service** - Notification and messaging service (Go)
 
+## System Flow
+- https://app.eraser.io/workspace/JOmlYeV87uMZsEGEL6li?origin=share
+
 ## Tech Stack
 
 ### Backend Services
@@ -157,9 +160,6 @@ The platform uses PostgreSQL with the following main tables:
 - Enrollments & Progress (Enrollment Service)
 - Quizzes & Attempts (Quiz Service)
 - XP Events & Leaderboards (Progression Service)
-
-## System Flow
-- https://app.eraser.io/workspace/JOmlYeV87uMZsEGEL6li?origin=share
 
 ## Contributing
 
